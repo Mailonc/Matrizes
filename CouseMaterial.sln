@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouseMaterial", "CouseMaterial\CouseMaterial.csproj", "{FCCC5144-2F7E-46ED-8E77-A9849B8708BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCCC5144-2F7E-46ED-8E77-A9849B8708BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCC5144-2F7E-46ED-8E77-A9849B8708BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCC5144-2F7E-46ED-8E77-A9849B8708BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCC5144-2F7E-46ED-8E77-A9849B8708BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78D8259D-3280-44DF-9F79-5A4984904C9B}
+	EndGlobalSection
+EndGlobal
